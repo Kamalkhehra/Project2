@@ -12,13 +12,6 @@ This project is a delightful exploration of Python's `turtle` graphics library, 
 - **Cherry Blossom Trees**: Experience the beauty of spring with cherry blossom trees in full bloom on either side of the house.
 - **Flower Garden**: Enjoy a splash of color with a garden brimming with red flowers and greenery.
 
-## How to Run
 
-Make sure you have Python installed on your computer. You can download it from [here](https://www.python.org/downloads/).
-
-1. Clone this repository or download the `.py` file directly.
-2. Open your terminal or command prompt.
-3. Navigate to the directory where the script is located.
-4. Run the script using Python:
 
    
